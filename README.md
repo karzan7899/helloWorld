@@ -1,2 +1,2 @@
-# my Hello World
-first piece of code on gitHub
+# Hello World
+first piece of code on gitHub!
